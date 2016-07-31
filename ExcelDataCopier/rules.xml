@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ops>
+	<op>
+		<srcfilepath>rules.xsl</srcfilepath>
+		<srcsheet></srcsheet>
+		<srcrowstart></srcrowstart>
+		<srcrowend></srcrowend>
+		<srccolumnstart></srccolumnstart>
+		<srccolumnend></srccolumnend>
+		
+		<dstfilepath></dstfilepath>
+		<dstsheet></dstsheet>
+		<dstrowstart></dstrowstart>
+		<dstrowend></dstrowend>
+		<dstcolumnstart></dstcolumnstart>
+		<dstcolumnend></dstcolumnend>
+	</op>
+	<op>
+		<srcfilepath>rules.xsl2</srcfilepath>
+		<srcsheet></srcsheet>
+		<srcrowstart></srcrowstart>
+		<srcrowend></srcrowend>
+		<srccolumnstart></srccolumnstart>
+		<srccolumnend></srccolumnend>
+		
+		<dstfilepath></dstfilepath>
+		<dstsheet></dstsheet>
+		<dstrowstart></dstrowstart>
+		<dstrowend></dstrowend>
+		<dstcolumnstart></dstcolumnstart>
+		<dstcolumnend></dstcolumnend>
+	</op>
+</ops>
