@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jaxb-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/jaxb-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/jaxb-jxc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/poi-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/poi-excelant-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/poi-ooxml-3.14-20160307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/poi-ooxml-schemas-3.14-20160307.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/ExcelDataCopier/lib/jaxb-xjc.jar!/" />
+    </SOURCES>
+  </library>
+</component>

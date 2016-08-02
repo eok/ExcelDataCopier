@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ops>
-	<op>
-		<srcfilepath>rules.xsl</srcfilepath>
-		<srcsheet></srcsheet>
-		<srcrowstart></srcrowstart>
-		<srcrowend></srcrowend>
-		<srccolumnstart></srccolumnstart>
-		<srccolumnend></srccolumnend>
-		
-		<dstfilepath></dstfilepath>
-		<dstsheet></dstsheet>
-		<dstrowstart></dstrowstart>
-		<dstrowend></dstrowend>
-		<dstcolumnstart></dstcolumnstart>
-		<dstcolumnend></dstcolumnend>
-	</op>
-	<op>
+<operations>
+	<operation>
+		<srcfilepath>D:\folluk\2016\08\01\Reports_01082016\im\bip_IM_20160801104650\IM_20160801104650.xls</srcfilepath>
+		<srcsheet>IM KQIs</srcsheet>
+		<srcrowstart>15</srcrowstart>
+		<srcrowend>21</srcrowend>
+		<srccolumnstart>1</srccolumnstart>
+		<srccolumnend>1</srccolumnend>
+
+		<dstfilepath>D:\folluk\2016\08\01\KPI Report - 27072016.xlsx</dstfilepath>
+		<dstsheet>Total Traffic</dstsheet>
+		<dstrowstart>64</dstrowstart>
+		<dstrowend>70</dstrowend>
+		<dstcolumnstart>2</dstcolumnstart>
+		<dstcolumnend>2</dstcolumnend>
+	</operation>
+	<operation>
 		<srcfilepath>rules.xsl2</srcfilepath>
 		<srcsheet></srcsheet>
 		<srcrowstart></srcrowstart>
 		<srcrowend></srcrowend>
 		<srccolumnstart></srccolumnstart>
 		<srccolumnend></srccolumnend>
-		
+
 		<dstfilepath></dstfilepath>
 		<dstsheet></dstsheet>
 		<dstrowstart></dstrowstart>
 		<dstrowend></dstrowend>
 		<dstcolumnstart></dstcolumnstart>
 		<dstcolumnend></dstcolumnend>
-	</op>
-</ops>
+	</operation>
+</operations>
